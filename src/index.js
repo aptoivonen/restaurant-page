@@ -1,1 +1,3 @@
-console.log("hello");
+import { init } from "./loadPage";
+
+init(document);
