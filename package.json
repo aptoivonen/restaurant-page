@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-page-project",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aptoivonen/restaurant-page.git"
+  },
+  "author": "Aleksi Toivonen",
+  "devDependencies": {
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
