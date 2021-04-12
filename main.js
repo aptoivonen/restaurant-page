@@ -1,1 +1,1 @@
-console.log("hello");
+(()=>{"use strict";!function(e){const t=e.getElementById("content"),n=e.createElement("header");t.appendChild(n);const a=e.createElement("h1");a.textContent="My Sea Food Restaurant",n.appendChild(a);const o=e.createElement("div");o.className="container",n.appendChild(o);const d=e.createElement("div");d.className="panel",o.appendChild(d);const c=e.createElement("p");c.textContent="My restaurant offers a wide variaty of sea food for every mouth.",d.appendChild(c);const r=e.createElement("p");r.textContent="Grab your bite!",d.appendChild(r)}(document)})();
