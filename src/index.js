@@ -1,6 +1,6 @@
-import { init } from "./loadPage";
+import init from "./loadPage";
 
-init(document);
+init();
 
 const tabsButtonsGroup = document.querySelector(".tabs-buttons");
 const activeTabButtonClass = "tab-button-active";
