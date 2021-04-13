@@ -110,6 +110,7 @@ main {
 .tab-section {
   display: none;
   min-height: 7rem;
+  background: var(--transparent-white);
 }
 
 .tab-section-active {
