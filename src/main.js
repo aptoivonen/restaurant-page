@@ -4,6 +4,7 @@ import createContact from "./contact";
 
 function createMain() {
   const main = createElement("main");
+  main.id = "main";
 
   const container = createElement("div", "container");
   main.appendChild(container);
